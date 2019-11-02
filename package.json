@@ -1,0 +1,30 @@
+{
+  "name": "fullstack-test-shaw-and-partners",
+  "version": "1.0.0",
+  "description": "Fullstack test of Shaw and partners.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoMilitao/fullstack-test-shaw-and-partners.git"
+  },
+  "keywords": [
+    "fullstack-test-shaw-and-partners"
+  ],
+  "author": "Gustavo Henrique Almeida Militão Do Carmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoMilitao/fullstack-test-shaw-and-partners/issues"
+  },
+  "homepage": "https://github.com/GustavoMilitao/fullstack-test-shaw-and-partners#readme",
+  "dependencies": {
+    "axios": "0.19.0",
+    "cookie-parser": "1.4.4",
+    "dotenv": "8.2.0",
+    "express": "4.17.1",
+    "helmet": "3.21.2",
+    "parse-link-header": "1.0.1"
+  }
+}
