@@ -1,2 +1,2 @@
-# fullstack-test-shaw-and-partners
-Repository for Fullstack test of Shaw and partners.
+# Backend Test
+Repository for Backend of Fullstack Test from Shaw and partners.
