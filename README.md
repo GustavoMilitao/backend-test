@@ -3,7 +3,7 @@ Repository for Backend of Fullstack Test from Shaw and partners.
 
 ## How to Start - Step by Step
 
-1) Make sure that you have nodejs installed.
+1) Make sure that you have nodejs installed and it can be accessed by "npm" alias.
 
 2) For different OS:
   - If you're using unix-like:
