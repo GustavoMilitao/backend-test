@@ -5,8 +5,7 @@ Repository for Backend of Fullstack Test from Shaw and partners.
 
 1) make sure that you have nodejs installed.
 
-2) 
-- If you're using unix-like:
+2) - If you're using unix-like:
   - Open a terminal.
   - Execute sudo su.
   - Execute .sh file like this sh start.sh.
