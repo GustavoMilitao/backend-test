@@ -25,9 +25,9 @@ exports.getUserDetails = function (req, res) {
 exports.getUserRepositories = function (req, res) {
     axios.get(`${githubUsersRoute}/${req.params.username}/repos`)
         .then(response => {
-            res.send({ repositories: response.data, next: parse(response.headers.link).next });
+            res.send(response.data);
         })
         .catch(error => {
-            res.status(error.status).send(error.data);
+            res.status(400).send(error.message);
         });
 };
