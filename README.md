@@ -13,5 +13,6 @@ Repository for Backend of Fullstack Test from Shaw and partners.
         - Execute .sh file like this sh start.sh.
     - If you're using Windows:
         - Execute start.bat file
+4) The app will run at port 3000.
 
 Enjoy! :D
